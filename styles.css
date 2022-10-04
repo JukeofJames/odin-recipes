@@ -1,5 +1,18 @@
 p {
     background-color: #f0808f;
     font-style: "Verdana",  "DejaVu Sans", sans-serif;
-    
+
+}
+div {
+    color: #00f;
+    font-size: 36px;
+}
+.thirdClass {
+    font-size: 24px;
+}
+.fourthClass {
+    background-color: rgb(21, 219, 21);
+    font-size: 24px;
+    font-weight: 700;
+    color: black;
 }
